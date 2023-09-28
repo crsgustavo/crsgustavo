@@ -1,16 +1,44 @@
-### Hi there 👋
+</br>
+</br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsgustavo&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=crsgustavo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
-<!--
-**crsgustavo/crsgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Abstract
 
-Here are some ideas to get you started:
+- 👨‍💻 Analista I em **TOTVS**.
+- 🌱 Análise e desenvolvimento de sistemas em ADVPL e TLPP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+<p align="center">
+    <a href="https://github.com/crsgustavo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/crsgustavo">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/cristian-gustavo-719aa71b2/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/cristian-gustavo-719aa71b2/">
+    </a>
+</p>
+
+<p align="center">
+
+## Total de Visitas no perfil<br>
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/crsgustavo/count.svg" />
+ </p>
+
+</p>
